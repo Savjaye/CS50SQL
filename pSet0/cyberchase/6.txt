@@ -1,0 +1,14 @@
++---------------------------+------------+--------+
+|           title           |  air_date  | season |
++---------------------------+------------+--------+
+| Digit's B-Day Surprise    | 2007-11-07 | 6      |
+| When Penguins Fly         | 2007-12-12 | 6      |
+| Unhappily Ever After      | 2008-02-19 | 6      |
+| Escape From Merlin's Maze | 2008-02-20 | 6      |
+| Step By Step              | 2008-02-21 | 6      |
+| Team Spirit               | 2008-04-08 | 6      |
+| Jimaya Jam                | 2008-04-09 | 6      |
+| A Perfect Score           | 2008-04-10 | 6      |
+| Chaos as Usual            | 2008-04-11 | 6      |
+| Spheres of Fears          | 2008-10-27 | 6      |
++---------------------------+------------+--------+

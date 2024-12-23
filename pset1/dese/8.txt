@@ -1,0 +1,400 @@
++----------------------------------------------------------------------------------------------+--------+
+|                                             name                                             | pupils |
++----------------------------------------------------------------------------------------------+--------+
+| Boston                                                                                       | 63065  |
+| Springfield                                                                                  | 29638  |
+| Worcester                                                                                    | 26958  |
+| Lynn                                                                                         | 17774  |
+| Brockton                                                                                     | 17023  |
+| Lowell                                                                                       | 16264  |
+| Lawrence                                                                                     | 15279  |
+| New Bedford                                                                                  | 14196  |
+| Fall River                                                                                   | 12271  |
+| Newton                                                                                       | 12201  |
+| Quincy                                                                                       | 9716   |
+| Framingham                                                                                   | 9463   |
+| Haverhill                                                                                    | 8450   |
+| Taunton                                                                                      | 8140   |
+| Revere                                                                                       | 7861   |
+| Everett                                                                                      | 7781   |
+| Plymouth                                                                                     | 7731   |
+| Chicopee                                                                                     | 7424   |
+| Cambridge                                                                                    | 7292   |
+| Chelsea                                                                                      | 7138   |
+| Lexington                                                                                    | 7002   |
+| Methuen                                                                                      | 6939   |
+| Malden                                                                                       | 6933   |
+| Brookline                                                                                    | 6899   |
+| Wachusett                                                                                    | 6858   |
+| Holyoke                                                                                      | 6460   |
+| Leominster                                                                                   | 6254   |
+| Shrewsbury                                                                                   | 6250   |
+| Attleboro                                                                                    | 6203   |
+| Peabody                                                                                      | 6036   |
+| Weymouth                                                                                     | 5927   |
+| Arlington                                                                                    | 5865   |
+| Fitchburg                                                                                    | 5830   |
+| Pittsfield                                                                                   | 5810   |
+| Andover                                                                                      | 5692   |
+| Needham                                                                                      | 5633   |
+| Braintree                                                                                    | 5628   |
+| Waltham                                                                                      | 5618   |
+| Bridgewater-Raynham                                                                          | 5598   |
+| Natick                                                                                       | 5402   |
+| Marlborough                                                                                  | 5366   |
+| Acton-Boxborough                                                                             | 5345   |
+| Franklin                                                                                     | 5311   |
+| Barnstable                                                                                   | 5306   |
+| Westfield                                                                                    | 5200   |
+| Somerville                                                                                   | 5156   |
+| Chelmsford                                                                                   | 5068   |
+| Westford                                                                                     | 4851   |
+| Beverly                                                                                      | 4825   |
+| Billerica                                                                                    | 4802   |
+| North Andover                                                                                | 4663   |
+| Milford                                                                                      | 4610   |
+| Belmont                                                                                      | 4537   |
+| Winchester                                                                                   | 4531   |
+| Woburn                                                                                       | 4494   |
+| Wellesley                                                                                    | 4487   |
+| Medford                                                                                      | 4473   |
+| Milton                                                                                       | 4413   |
+| Salem                                                                                        | 4364   |
+| North Attleborough                                                                           | 4207   |
+| West Springfield                                                                             | 4071   |
+| Dracut                                                                                       | 4057   |
+| Melrose                                                                                      | 4015   |
+| Hopkinton                                                                                    | 4008   |
+| Reading                                                                                      | 4001   |
+| Hingham                                                                                      | 3958   |
+| Westborough                                                                                  | 3904   |
+| Marshfield                                                                                   | 3902   |
+| Walpole                                                                                      | 3791   |
+| Whitman-Hanson                                                                               | 3709   |
+| Mansfield                                                                                    | 3639   |
+| Agawam                                                                                       | 3629   |
+| Stoughton                                                                                    | 3612   |
+| Sharon                                                                                       | 3600   |
+| Dudley-Charlton Reg                                                                          | 3588   |
+| Norwood                                                                                      | 3559   |
+| Dartmouth                                                                                    | 3541   |
+| Burlington                                                                                   | 3519   |
+| Easton                                                                                       | 3480   |
+| Wakefield                                                                                    | 3435   |
+| Danvers                                                                                      | 3430   |
+| Tewksbury                                                                                    | 3416   |
+| Randolph                                                                                     | 3339   |
+| Dennis-Yarmouth                                                                              | 3300   |
+| Grafton                                                                                      | 3268   |
+| Canton                                                                                       | 3261   |
+| Falmouth                                                                                     | 3232   |
+| Nashoba                                                                                      | 3212   |
+| Middleborough                                                                                | 3101   |
+| Gloucester                                                                                   | 3100   |
+| North Middlesex                                                                              | 3090   |
+| Westwood                                                                                     | 2980   |
+| Hampden-Wilbraham                                                                            | 2963   |
+| Wilmington                                                                                   | 2935   |
+| Scituate                                                                                     | 2886   |
+| Northampton                                                                                  | 2881   |
+| Holliston                                                                                    | 2874   |
+| Marblehead                                                                                   | 2866   |
+| Duxbury                                                                                      | 2845   |
+| Freetown-Lakeville                                                                           | 2817   |
+| Ashland                                                                                      | 2809   |
+| Longmeadow                                                                                   | 2808   |
+| Pembroke                                                                                     | 2797   |
+| Saugus                                                                                       | 2782   |
+| Wayland                                                                                      | 2762   |
+| Dighton-Rehoboth                                                                             | 2722   |
+| Hudson                                                                                       | 2677   |
+| Bedford                                                                                      | 2673   |
+| Dedham                                                                                       | 2659   |
+| Sandwich                                                                                     | 2637   |
+| Watertown                                                                                    | 2629   |
+| Hanover                                                                                      | 2628   |
+| Foxborough                                                                                   | 2616   |
+| Sudbury                                                                                      | 2580   |
+| Auburn                                                                                       | 2574   |
+| TEC Connections Academy Commonwealth Virtual School District                                 | 2531   |
+| Norton                                                                                       | 2518   |
+| Medfield                                                                                     | 2510   |
+| East Longmeadow                                                                              | 2494   |
+| Ludlow                                                                                       | 2487   |
+| Gardner                                                                                      | 2462   |
+| Stoneham                                                                                     | 2439   |
+| North Reading                                                                                | 2367   |
+| Groton-Dunstable                                                                             | 2366   |
+| Greater Lowell Regional Vocational Technical                                                 | 2358   |
+| Pentucket                                                                                    | 2347   |
+| Wareham                                                                                      | 2344   |
+| Belchertown                                                                                  | 2338   |
+| Triton                                                                                       | 2330   |
+| Rockland                                                                                     | 2329   |
+| Newburyport                                                                                  | 2328   |
+| Ashburnham-Westminster                                                                       | 2303   |
+| Bellingham                                                                                   | 2288   |
+| Mendon-Upton                                                                                 | 2271   |
+| Abington                                                                                     | 2244   |
+| Quabbin                                                                                      | 2238   |
+| Norwell                                                                                      | 2233   |
+| Southbridge                                                                                  | 2228   |
+| Swampscott                                                                                   | 2210   |
+| Lynnfield                                                                                    | 2205   |
+| Medway                                                                                       | 2181   |
+| East Bridgewater                                                                             | 2170   |
+| Northbridge                                                                                  | 2146   |
+| Clinton                                                                                      | 2144   |
+| Seekonk                                                                                      | 2094   |
+| Greater New Bedford Regional Vocational Technical                                            | 2069   |
+| Brooke Charter School (District)                                                             | 2063   |
+| Swansea                                                                                      | 2061   |
+| Concord                                                                                      | 2038   |
+| Amesbury                                                                                     | 2037   |
+| South Hadley                                                                                 | 2034   |
+| King Philip                                                                                  | 2014   |
+| Monomoy Regional School District                                                             | 1979   |
+| Fairhaven                                                                                    | 1971   |
+| Greenfield                                                                                   | 1946   |
+| Weston                                                                                       | 1938   |
+| Bourne                                                                                       | 1931   |
+| Webster                                                                                      | 1899   |
+| Winthrop                                                                                     | 1887   |
+| Ayer Shirley School District                                                                 | 1830   |
+| Tantasqua                                                                                    | 1818   |
+| Uxbridge                                                                                     | 1808   |
+| Silver Lake                                                                                  | 1806   |
+| Athol-Royalston                                                                              | 1767   |
+| Central Berkshire                                                                            | 1758   |
+| Easthampton                                                                                  | 1758   |
+| Blackstone-Millville                                                                         | 1747   |
+| Masconomet                                                                                   | 1734   |
+| Hamilton-Wenham                                                                              | 1726   |
+| Lunenburg                                                                                    | 1700   |
+| Foxborough Regional Charter (District)                                                       | 1695   |
+| Tyngsborough                                                                                 | 1695   |
+| Somerset                                                                                     | 1693   |
+| Littleton                                                                                    | 1672   |
+| Ipswich                                                                                      | 1666   |
+| Millbury                                                                                     | 1665   |
+| Mashpee                                                                                      | 1656   |
+| Nantucket                                                                                    | 1652   |
+| Mystic Valley Regional Charter (District)                                                    | 1626   |
+| Northborough                                                                                 | 1621   |
+| Greater Lawrence Regional Vocational Technical                                               | 1618   |
+| KIPP Academy Lynn Charter (District)                                                         | 1614   |
+| Oxford                                                                                       | 1608   |
+| Spencer-E Brookfield                                                                         | 1604   |
+| Roxbury Preparatory Charter (District)                                                       | 1601   |
+| Carver                                                                                       | 1580   |
+| Springfield International Charter (District)                                                 | 1568   |
+| Lincoln-Sudbury                                                                              | 1561   |
+| Essex North Shore Agricultural and Technical School District                                 | 1550   |
+| Southeastern Regional Vocational Technical                                                   | 1549   |
+| Westport                                                                                     | 1548   |
+| Nauset                                                                                       | 1546   |
+| Leicester                                                                                    | 1530   |
+| Greater Fall River Regional Vocational Technical                                             | 1483   |
+| Southwick-Tolland-Granville Regional School District                                         | 1480   |
+| Narragansett                                                                                 | 1469   |
+| Cohasset                                                                                     | 1462   |
+| North Adams                                                                                  | 1455   |
+| Montachusett Regional Vocational Technical                                                   | 1452   |
+| Amherst-Pelham                                                                               | 1433   |
+| Abby Kelley Foster Charter Public (District)                                                 | 1424   |
+| West Bridgewater                                                                             | 1416   |
+| Excel Academy Charter (District)                                                             | 1396   |
+| Northboro-Southboro                                                                          | 1384   |
+| Holbrook                                                                                     | 1355   |
+| Concord-Carlisle                                                                             | 1348   |
+| Maynard                                                                                      | 1345   |
+| Winchendon                                                                                   | 1338   |
+| Palmer                                                                                       | 1334   |
+| Bristol-Plymouth Regional Vocational Technical                                               | 1332   |
+| Ware                                                                                         | 1319   |
+| Sutton                                                                                       | 1307   |
+| Manchester Essex Regional                                                                    | 1301   |
+| Atlantis Charter (District)                                                                  | 1296   |
+| Shawsheen Valley Regional Vocational Technical                                               | 1295   |
+| Northeast Metropolitan Regional Vocational Technical                                         | 1284   |
+| Georgetown                                                                                   | 1279   |
+| Berkshire Hills                                                                              | 1268   |
+| Southborough                                                                                 | 1268   |
+| Quaboag Regional                                                                             | 1262   |
+| Blackstone Valley Regional Vocational Technical                                              | 1248   |
+| Douglas                                                                                      | 1242   |
+| Whittier Regional Vocational Technical                                                       | 1239   |
+| Acushnet                                                                                     | 1235   |
+| Hoosac Valley Regional                                                                       | 1229   |
+| Match Charter Public School (District)                                                       | 1224   |
+| Millis                                                                                       | 1221   |
+| Dover-Sherborn                                                                               | 1220   |
+| Southern Worcester County Regional Vocational School District                                | 1175   |
+| Hopedale                                                                                     | 1160   |
+| Assabet Valley Regional Vocational Technical                                                 | 1148   |
+| Old Rochester                                                                                | 1146   |
+| Gill-Montague                                                                                | 1139   |
+| Amherst                                                                                      | 1135   |
+| Mount Greylock                                                                               | 1133   |
+| Lincoln                                                                                      | 1115   |
+| Prospect Hill Academy Charter (District)                                                     | 1106   |
+| Kingston                                                                                     | 1102   |
+| Berlin-Boylston                                                                              | 1093   |
+| Harvard                                                                                      | 1059   |
+| Somerset Berkley Regional School District                                                    | 1044   |
+| Greater Commonwealth Virtual District                                                        | 1023   |
+| Collegiate Charter School of Lowell (District)                                               | 1019   |
+| Norfolk                                                                                      | 1016   |
+| South Shore Charter Public (District)                                                        | 1008   |
+| West Boylston                                                                                | 976    |
+| Tri-County Regional Vocational Technical                                                     | 970    |
+| Advanced Math and Science Academy Charter (District)                                         | 964    |
+| Monson                                                                                       | 953    |
+| Boston Renaissance Charter Public (District)                                                 | 945    |
+| Mohawk Trail                                                                                 | 916    |
+| Wrentham                                                                                     | 908    |
+| Blue Hills Regional Vocational Technical                                                     | 893    |
+| Berkley                                                                                      | 868    |
+| Gateway                                                                                      | 859    |
+| Hull                                                                                         | 855    |
+| Sturgis Charter Public (District)                                                            | 852    |
+| Sturbridge                                                                                   | 842    |
+| Rockport                                                                                     | 805    |
+| Lowell Community Charter Public (District)                                                   | 804    |
+| Neighborhood House Charter (District)                                                        | 802    |
+| South Middlesex Regional Vocational Technical                                                | 801    |
+| Granby                                                                                       | 800    |
+| Lawrence Family Development Charter (District)                                               | 794    |
+| Lenox                                                                                        | 792    |
+| Pioneer Charter School of Science (District)                                                 | 792    |
+| Alma del Mar Charter School (District)                                                       | 788    |
+| Innovation Academy Charter (District)                                                        | 785    |
+| Hampshire                                                                                    | 782    |
+| Lee                                                                                          | 782    |
+| Southern Berkshire                                                                           | 778    |
+| Benjamin Franklin Classical Charter Public (District)                                        | 774    |
+| Upper Cape Cod Regional Vocational Technical                                                 | 749    |
+| New Heights Charter School of Brockton (District)                                            | 740    |
+| Frontier                                                                                     | 738    |
+| Nashoba Valley Regional Vocational Technical                                                 | 731    |
+| Martha's Vineyard                                                                            | 730    |
+| Ralph C Mahar                                                                                | 722    |
+| Boston Collegiate Charter (District)                                                         | 721    |
+| Avon                                                                                         | 712    |
+| Holyoke Community Charter (District)                                                         | 701    |
+| Boxford                                                                                      | 700    |
+| Plainville                                                                                   | 692    |
+| Middleton                                                                                    | 689    |
+| UP Academy Charter School of Dorchester (District)                                           | 687    |
+| Pioneer Valley                                                                               | 686    |
+| Learning First Charter Public School (District)                                              | 669    |
+| Rising Tide Charter Public (District)                                                        | 668    |
+| Boston Preparatory Charter Public (District)                                                 | 666    |
+| North Brookfield                                                                             | 657    |
+| Minuteman Regional Vocational Technical                                                      | 641    |
+| South Shore Regional Vocational Technical                                                    | 640    |
+| Cape Cod Regional Vocational Technical                                                       | 629    |
+| Hadley                                                                                       | 627    |
+| KIPP Academy Boston Charter School (District)                                                | 621    |
+| Pathfinder Regional Vocational Technical                                                     | 615    |
+| Halifax                                                                                      | 614    |
+| Carlisle                                                                                     | 598    |
+| Topsfield                                                                                    | 597    |
+| Norfolk County Agricultural                                                                  | 573    |
+| Argosy Collegiate Charter School (District)                                                  | 569    |
+| Old Colony Regional Vocational Technical                                                     | 562    |
+| Pioneer Valley Chinese Immersion Charter (District)                                          | 559    |
+| Orange                                                                                       | 546    |
+| Franklin County Regional Vocational Technical                                                | 545    |
+| Academy Of the Pacific Rim Charter Public (District)                                         | 539    |
+| Hampden Charter School of Science East (District)                                            | 537    |
+| Northampton-Smith Vocational Agricultural                                                    | 528    |
+| Southampton                                                                                  | 526    |
+| Global Learning Charter Public (District)                                                    | 500    |
+| Boston Green Academy Horace Mann Charter School (District)                                   | 496    |
+| Rochester                                                                                    | 494    |
+| Dover                                                                                        | 493    |
+| Salem Academy Charter (District)                                                             | 493    |
+| Oak Bluffs                                                                                   | 481    |
+| Northern Berkshire Regional Vocational Technical                                             | 479    |
+| Baystate Academy Charter Public School (District)                                            | 474    |
+| Hatfield                                                                                     | 473    |
+| Up-Island Regional                                                                           | 466    |
+| Conservatory Lab Charter (District)                                                          | 455    |
+| Brewster                                                                                     | 444    |
+| Bristol County Agricultural                                                                  | 441    |
+| Edgartown                                                                                    | 440    |
+| Veritas Preparatory Charter School (District)                                                | 411    |
+| Mattapoisett                                                                                 | 408    |
+| Marion                                                                                       | 407    |
+| Community Day Charter Public School (District)                                               | 400    |
+| Christa McAuliffe Charter School (District)                                                  | 399    |
+| Pioneer Valley Performing Arts Charter Public (District)                                     | 397    |
+| Sherborn                                                                                     | 396    |
+| Edward M. Kennedy Academy for Health Careers: A Horace Mann Charter Public School (District) | 395    |
+| Francis W. Parker Charter Essential (District)                                               | 395    |
+| Boston Day and Evening Academy Charter (District)                                            | 386    |
+| Springfield Preparatory Charter School (District)                                            | 380    |
+| Berkshire Arts and Technology Charter Public (District)                                      | 371    |
+| Sizer School: A North Central Charter Essential (District)                                   | 368    |
+| Martin Luther King, Jr. Charter School of Excellence (District)                              | 363    |
+| Tisbury                                                                                      | 363    |
+| Pioneer Charter School of Science II (District)                                              | 361    |
+| Deerfield                                                                                    | 351    |
+| UP Academy Charter School of Boston (District)                                               | 351    |
+| Codman Academy Charter Public (District)                                                     | 347    |
+| Benjamin Banneker Charter Public (District)                                                  | 341    |
+| Bridge Boston Charter School (District)                                                      | 337    |
+| Hampden Charter School of Science West (District)                                            | 320    |
+| Community Charter School of Cambridge (District)                                             | 305    |
+| Hill View Montessori Charter Public (District)                                               | 305    |
+| City on a Hill Charter Public School (District)                                              | 300    |
+| River Valley Charter (District)                                                              | 288    |
+| Dudley Street Neighborhood Charter School (District)                                         | 280    |
+| Old Sturbridge Academy Charter Public School (District)                                      | 279    |
+| Brookfield                                                                                   | 276    |
+| Brimfield                                                                                    | 272    |
+| Nahant                                                                                       | 268    |
+| Paulo Freire Social Justice Charter School (District)                                        | 261    |
+| Libertas Academy Charter School (District)                                                   | 255    |
+| Cape Cod Lighthouse Charter (District)                                                       | 254    |
+| Farmington River Reg                                                                         | 242    |
+| Clarksburg                                                                                   | 232    |
+| Truro                                                                                        | 230    |
+| Plympton                                                                                     | 225    |
+| Hilltown Cooperative Charter Public (District)                                               | 218    |
+| Four Rivers Charter Public (District)                                                        | 215    |
+| Erving                                                                                       | 214    |
+| Holland                                                                                      | 212    |
+| Marblehead Community Charter Public (District)                                               | 211    |
+| Phoenix Academy Charter Public High School, Chelsea (District)                               | 209    |
+| Eastham                                                                                      | 206    |
+| Sunderland                                                                                   | 206    |
+| Phoenix Academy Public Charter High School, Springfield (District)                           | 199    |
+| Map Academy Charter School (District)                                                        | 197    |
+| Richmond                                                                                     | 192    |
+| Helen Y. Davis Leadership Academy Charter Public (District)                                  | 187    |
+| Orleans                                                                                      | 186    |
+| Williamsburg                                                                                 | 178    |
+| Martha's Vineyard Charter Public School (District)                                           | 168    |
+| Provincetown                                                                                 | 163    |
+| Phoenix Academy Public Charter High School, Lawrence (District)                              | 154    |
+| Hawlemont                                                                                    | 146    |
+| Wales                                                                                        | 144    |
+| New Salem-Wendell                                                                            | 142    |
+| Conway                                                                                       | 135    |
+| Westhampton                                                                                  | 133    |
+| Shutesbury                                                                                   | 129    |
+| Petersham                                                                                    | 127    |
+| Chesterfield-Goshen                                                                          | 126    |
+| Leverett                                                                                     | 125    |
+| Whately                                                                                      | 124    |
+| Wellfleet                                                                                    | 120    |
+| Worthington                                                                                  | 119    |
+| Pelham                                                                                       | 113    |
+| Hancock                                                                                      | 98     |
+| Florida                                                                                      | 96     |
+| Rowe                                                                                         | 85     |
+| Lowell Middlesex Academy Charter (District)                                                  | 84     |
+| Savoy                                                                                        | 64     |
++----------------------------------------------------------------------------------------------+--------+
